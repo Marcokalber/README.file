@@ -36,10 +36,6 @@ This repository contains the source code for my personal website — a place whe
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🏅 Certifications
 
 - **Securing Your Software Supply Chain with Sigstore (LFS182)**  
@@ -50,4 +46,7 @@ This repository contains the source code for my personal website — a place whe
   *Issued by The Linux Foundation on March 25, 2025*  
   Certificate ID: **LF-nx1485qh2x**
 
+---
+
+## 📂 Project Structure
 
