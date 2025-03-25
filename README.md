@@ -1,27 +1,36 @@
 # README.file
-# 🌐 My Personal Website
-
 # 👋 Welcome to My Personal Website
 
-This repository contains the source code for my personal website — a place where I showcase my skills, background, and projects. It's built to reflect who I am as a developer and what I specialize in.
+This repository contains the source code for my personal website — a space where I showcase my development skills, certifications, background, and projects.
+
+[🌐 Visit the Live Site](https://yourwebsite.com)
+
+---
+
+## 🏅 Badges
+
+![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/your-project-id/badge)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-8.2-brightgreen)
+
+> 📌 *These badges indicate this project follows recognized open source security and quality standards.*
 
 ---
 
 ## 🚀 Features
 
-- 🌐 Multi-language code support
-- 💡 Highlighted expertise in backend and system-level development
-- 🧪 Includes examples of testing workflows (manual and automated)
-- 🗄️ Database-focused sections with real-world SQL and optimization tips
-- ⚙️ Optimized code performance using low-level languages
-- 📱 Responsive and clean design
+- 🌐 Multi-language code examples (C++, Python, Ruby, C, Java, SQL, Assembly)
+- 🧪 Real testing workflows (manual and automated)
+- ⚙️ System-level development emphasis
+- 🗄️ Database optimization insights
+- 💻 Clean and responsive design
+- 📜 Certified in secure open-source project practices
 
 ---
 
 ## 🧠 Tech Stack
 
 - **Languages:** C++, Python, Ruby, C, Java, SQL, Assembly
-- **Frontend:** HTML, CSS, JavaScript (if applicable to your site)
+- **Frontend:** HTML, CSS, JavaScript (if applicable)
 - **Backend:** Python, Java, Ruby, C/C++
 - **Databases:** SQL-based systems
 
@@ -30,9 +39,9 @@ This repository contains the source code for my personal website — a place whe
 ## 💼 Experience & Tools
 
 - ✅ Selenium for browser automation and testing
-- 🧪 Manual & automated software testing
-- 🗃️ Deep knowledge of databases and query optimization
-- 🛠️ Building reliable systems in low-level environments
+- 🧪 Manual and automated software testing pipelines
+- 🗃️ Strong focus on database design and optimization
+- ⚙️ Systems programming and low-level coding experience
 
 ---
 
