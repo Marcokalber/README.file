@@ -9,7 +9,7 @@ This repository contains the source code for my personal website — a space whe
 
 ## 🏅 Badges
 
-![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/your-project-id/badge)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10343/badge)](https://www.bestpractices.dev/projects/10343)
 ![OpenSSF Scorecard](https://img.shields.io/badge/OpenSSF%20Scorecard-8.2-brightgreen)
 
 > 📌 *These badges indicate this project follows recognized open source security and quality standards.*
