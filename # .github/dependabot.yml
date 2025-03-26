@@ -1,0 +1,13 @@
+# .github/dependabot.yml
+version: 2
+updates:
+  # Configuración para actualizar las dependencias de GitHub Actions semanalmente
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+  # Puedes agregar otras dependencias como npm, python, etc.
+  # - package-ecosystem: "npm"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "monthly"
